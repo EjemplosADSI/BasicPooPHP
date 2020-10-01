@@ -50,6 +50,12 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -66,6 +72,7 @@
       <workItem from="1600900739810" duration="1985000" />
       <workItem from="1601066159571" duration="3169000" />
       <workItem from="1601074383763" duration="9227000" />
+      <workItem from="1601415458335" duration="8309000" />
     </task>
     <task id="LOCAL-00001" summary="* Clase 2">
       <created>1601131142931</created>
@@ -113,6 +120,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2460" y="175" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600729375501" />
+    <state x="753" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1601416227326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601416227326" />
     <state x="2665" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1600902839429">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
